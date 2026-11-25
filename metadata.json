@@ -1,0 +1,6 @@
+{
+  "name": "Al-Shifa Clinic",
+  "description": "Visit Al-Shifa Clinic in Gazdarabad Marwaari Lines, Karachi. Open 24 hours, seven days a week. Contact us through WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
